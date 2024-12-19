@@ -5,5 +5,5 @@
   <br>
   <a href ="https://khushilohia.github.io/MiniProjects/Pokemon/">Pokemon Generator</a>
   <br>
-  <a href ="" >Weather App</a>
+  <a href ="https://khushilohia.github.io/MiniProjects/Weather%20App/" >Weather App</a>
 </p>
