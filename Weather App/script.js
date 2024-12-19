@@ -1,4 +1,4 @@
-const BASE_URL ="http://api.weatherapi.com/v1/current.json?key=35afbaa5247f4b959fd130107241912&q="
+const BASE_URL ="https://api.weatherapi.com/v1/current.json?key=35afbaa5247f4b959fd130107241912&q="
 
 const input =document.querySelector(".search-box");
 const loc=document.querySelector(".city");
